@@ -1,7 +1,6 @@
-## Hi there 👋
-
+## I am a current student at Dartmouth College
+## Contact me at: ttstone200@gmail.com
 <!--
-**tucker-stone/tucker-stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
